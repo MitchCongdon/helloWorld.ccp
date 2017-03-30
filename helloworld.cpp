@@ -37,12 +37,8 @@ int main()
 		cin >> blab.greeting;
 		blab.say3();
 		
-	/*next up make more stuff.
+	/*next up, make more stuff.
 	private class variables etc.
-	look up how to get user input.
-	look up how to make functions.
-	decide upon a simple program to write,
-	write it and load it up to gitHub.
 	*/
 	system("pause");
 	return 0;
