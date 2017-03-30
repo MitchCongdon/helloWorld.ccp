@@ -3,7 +3,9 @@
 
 /*
 Code written by Mitchell Congdon
-03/26/2017
+"Jerald"
+03/29/2017
+version 1.0
 */
 
 #include "stdafx.h"
