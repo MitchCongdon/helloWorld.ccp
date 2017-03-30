@@ -6,7 +6,7 @@
 
 Hello, Upryzing here aka Mitchell Congdon. I have embarked on an adventure to learn
 
-a bit more about C++, and coding in general.
+a bit more about C++ and coding in general.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
